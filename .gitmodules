@@ -1,0 +1,3 @@
+[submodule "RISE"]
+	path = RISE
+	url = https://github.com/damianavila/RISE
