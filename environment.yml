@@ -11,4 +11,3 @@ dependencies:
   - matplotlib
   - pandas
   - bokeh
-  - rise=5.5.0
